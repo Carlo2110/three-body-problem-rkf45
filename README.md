@@ -1,6 +1,6 @@
 # Numerical Approaches to the Three-Body Problem (RKF45)
 
-This repository contains the source code, numerical models, and defense presentation developed for my Bachelor's Thesis in Mathematics at the **University of Calabria (UNICAL)**.
+This repository contains the source code and numerical models developed for my Bachelor's Thesis in Mathematics at the **University of Calabria (UNICAL)**.
 
 The project focuses on the analytical impossibility and computational resolution of the classical **Three-Body Problem** in physics and celestial mechanics. A system of 12 first-order ordinary differential equations (ODEs) was formulated and solved in **MATLAB** using the adaptive **Runge-Kutta-Fehlberg (RKF45)** method.
 
@@ -28,7 +28,6 @@ The MATLAB implementation simulates and evaluates total mechanical energy preser
 ## 📁 Repository Contents
 
 * `Thesis.pdf`: Full text of the Bachelor's Thesis (*"Approcci numerici per il problema dei tre corpi"*).
-* `Presentation.pptx`: Defense presentation slides with embedded video animations of the simulations.
 * `RKF45_TBP.m`: MATLAB implementation of the 12-ODE solver and orbit visualization routines.
 
 ---
