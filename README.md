@@ -1,2 +1,25 @@
-# three-body-problem-rkf45
-Numerical simulation and analysis of the Three-Body Problem using RKF45 in MATLAB (Bachelor Thesis)
+# Three-Body Problem Simulation using RKF45
+
+This repository contains the numerical implementation and code developed for my Bachelor's Thesis in Mathematics at the **University of Calabria**.
+
+The project focuses on the qualitative and computational analysis of the classical **Three-Body Problem** in physics and celestial mechanics. Since the system lacks a general closed-form analytical solution, numerical integration methods were implemented to simulate the trajectories and orbits of the bodies under different initial conditions.
+
+---
+
+## 📌 Project Overview
+
+* **Algorithm:** Runge-Kutta-Fehlberg 1(4,5) method (RKF45) with adaptive step-size control.
+* **Language/Environment:** MATLAB
+* **Key Features:**
+  * Numerical integration of the system of differential equations governing 3-body gravitational interaction.
+  * Custom initial conditions setup (masses, initial positions, and velocity vectors).
+  * 2D/3D visualization and trajectory plotting of the chaotic and periodic orbits.
+
+---
+
+## 📖 Thesis Document & Author
+
+The complete thesis text (in Italian), titled *"Approcci numerici per il problema dei tre corpi"*, is available in this repository.
+
+**Author:** Carlo Maria Piccolo  
+*B.Sc. in Mathematics — University of Calabria*
