@@ -27,9 +27,9 @@ The MATLAB implementation simulates and evaluates total mechanical energy preser
 
 ## 📁 Repository Contents
 
-* `src/`: MATLAB script files (`.m`) implementing the 12-ODE RKF45 system solver and orbit visualization routines.
-* `thesis_document.pdf`: Complete text of the Bachelor's Thesis (*"Approcci numerici per il problema dei tre corpi"*).
-* `defense_presentation.pptx`: Slides used during the defense containing **embedded video animations** of the numerical simulations.
+* `Thesis.pdf`: Full text of the Bachelor's Thesis (*"Approcci numerici per il problema dei tre corpi"*).
+* `Presentation.pptx`: Defense presentation slides with embedded video animations of the simulations.
+* `RKF45_TBP.m`: MATLAB implementation of the 12-ODE solver and orbit visualization routines.
 
 ---
 
